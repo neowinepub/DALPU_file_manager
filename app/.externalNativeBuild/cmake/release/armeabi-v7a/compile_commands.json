@@ -1,0 +1,13 @@
+[
+{
+  "directory": "D:/ProgramData/AndroidStudio/filemanager-master/file-manager-20190313encdecusb-published/app/.externalNativeBuild/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 -DNeowineNative_EXPORTS  --sysroot D:/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\NeowineNative.dir\\NeowineJNI.c.o   -c D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\jni\\NeowineJNI.c",
+  "file": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\jni\\NeowineJNI.c"
+},
+
+{
+  "directory": "D:/ProgramData/AndroidStudio/filemanager-master/file-manager-20190313encdecusb-published/app/.externalNativeBuild/cmake/release/armeabi-v7a",
+  "command": "D:\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 -DNeowineNative_EXPORTS  --sysroot D:/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security  -Oz -DNDEBUG  -fPIC   -o CMakeFiles\\NeowineNative.dir\\neowineDorca_spi.c.o   -c D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\jni\\neowineDorca_spi.c",
+  "file": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\jni\\neowineDorca_spi.c"
+}
+]

@@ -1,0 +1,45 @@
+{
+  "stringTable": {
+    "0": "D:/ProgramData/AndroidStudio/filemanager-master/file-manager-20190313encdecusb-published/app/.externalNativeBuild/cmake/debug/armeabi-v7a",
+    "1": "--target=armv7-none-linux-androideabi21 --gcc-toolchain=D:/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 -DNeowineNative_EXPORTS --sysroot D:/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mfpu=vfpv3-d16 -fno-addrsig -mthumb -mfpu=neon -Wa,--noexecstack -Wformat -Werror=format-security -O0 -fno-limit-debug-info -fPIC"
+  },
+  "buildFiles": [
+    "D:\\Android\\Sdk\\ndk-bundle\\build\\cmake\\android.toolchain.cmake",
+    "D:\\Android\\Sdk\\ndk-bundle\\build\\cmake\\platforms.cmake",
+    "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target clean"
+  ],
+  "libraries": {
+    "NeowineNative-Debug-armeabi-v7a": {
+      "buildCommand": "D:\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\cmake.exe --build D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\.externalNativeBuild\\cmake\\debug\\armeabi-v7a --target NeowineNative",
+      "buildType": "debug",
+      "toolchain": "2294077270",
+      "abi": "armeabi-v7a",
+      "artifactName": "NeowineNative",
+      "files": [
+        {
+          "src": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\jni\\NeowineJNI.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\jni\\neowineDorca_spi.c",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "output": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\cmake\\debug\\obj\\armeabi-v7a\\libNeowineNative.so"
+    }
+  },
+  "toolchains": {
+    "2294077270": {
+      "cCompilerExecutable": "D:\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": []
+}

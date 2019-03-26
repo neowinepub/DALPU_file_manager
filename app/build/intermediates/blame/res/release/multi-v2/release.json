@@ -1,0 +1,1448 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-sk_values-sk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-sk\\values-sk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-bg_values-bg.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-bg\\values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-mn_values-mn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-nl_values-nl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-nl\\values-nl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-eu_values-eu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-eu\\values-eu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ur_values-ur.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ur\\values-ur.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-pt-rBR_values-pt-rBR.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-pt-rBR\\values-pt-rBR.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-it_values-it.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-it\\values-it.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ar_values-ar.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ar\\values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ro_values-ro.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ro\\values-ro.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-be_values-be.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-be\\values-be.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-fa_values-fa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-fa\\values-fa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-v16_values-v16.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-my_values-my.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-my\\values-my.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-el_values-el.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-el\\values-el.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-sr_values-sr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-sr\\values-sr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ky_values-ky.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ky\\values-ky.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-fr-rCA_values-fr-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-fr-rCA\\values-fr-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-da_values-da.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-da\\values-da.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-kn_values-kn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-kn\\values-kn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-zh-rCN_values-zh-rCN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-tr_values-tr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-tr\\values-tr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-uk_values-uk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-uk\\values-uk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ml_values-ml.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ml\\values-ml.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-mr_values-mr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-mr\\values-mr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-es\\values-es.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ne_values-ne.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ne\\values-ne.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-zu_values-zu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-zu\\values-zu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-cs_values-cs.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-cs\\values-cs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-pl_values-pl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-pl\\values-pl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-pt-rPT_values-pt-rPT.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-pt-rPT\\values-pt-rPT.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-km_values-km.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-km\\values-km.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-te_values-te.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-te\\values-te.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\7180b1ca61f27b75f588947063402e6d\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,5,8,11",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,223,386,554",
+                        "endLines": "4,7,10,13",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "218,381,549,716"
+                    },
+                    "to": {
+                        "startLines": "8,11,15,19",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "596,764,1053,1349",
+                        "endLines": "10,13,17,21",
+                        "endColumns": "12,12,12,12",
+                        "endOffsets": "759,922,1216,1511"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,596,722,850,1022",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,717,845,1017,1355"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,14,18,22,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,159,223,290,354,470,927,1221,1516,1688",
+                        "endLines": "2,3,4,5,6,7,14,18,24,29",
+                        "endColumns": "103,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "154,218,285,349,465,591,1048,1344,1683,2021"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-sq_values-sq.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-sq\\values-sq.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ms_values-ms.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ms\\values-ms.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-b+sr+Latn_values-b+sr+Latn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-b+sr+Latn\\values-b+sr+Latn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-hr_values-hr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-hr\\values-hr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-de_values-de.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-de\\values-de.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-bn_values-bn.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-bn\\values-bn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-v24_values-v24.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\7180b1ca61f27b75f588947063402e6d\\res\\values-v24\\values-v24.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,121,182,248",
+                        "endColumns": "65,60,65,66",
+                        "endOffsets": "116,177,243,310"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-bs_values-bs.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-bs\\values-bs.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-az_values-az.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-az\\values-az.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-hy_values-hy.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-hy\\values-hy.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-en-rXC_values-en-rXC.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-en-rXC\\values-en-rXC.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "202",
+                        "endOffsets": "253"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-en-rGB_values-en-rGB.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-en-rGB\\values-en-rGB.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-kk_values-kk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-kk\\values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-sv_values-sv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-sv\\values-sv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-es-rUS_values-es-rUS.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-es-rUS\\values-es-rUS.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-nb_values-nb.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-nb\\values-nb.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-et_values-et.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-et\\values-et.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-fr_values-fr.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-en-rCA_values-en-rCA.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-en-rCA\\values-en-rCA.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-as_values-as.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-as\\values-as.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-lo_values-lo.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-lo\\values-lo.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-th_values-th.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-th\\values-th.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-or_values-or.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-or\\values-or.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\7180b1ca61f27b75f588947063402e6d\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,144,215,288,341,394,447,500,560,626,748,809,875",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "139,210,283,336,389,442,495,555,621,743,804,870,937"
+                    },
+                    "to": {
+                        "startLines": "38,40,42,294,295,296,297,308,325,327,328,333,335",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1477,1609,1738,16710,16763,16816,16869,17412,18486,18662,18784,19046,19241",
+                        "endColumns": "88,70,72,52,52,52,52,59,65,121,60,65,66",
+                        "endOffsets": "1561,1675,1806,16758,16811,16864,16917,17467,18547,18779,18840,19107,19303"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,13,56,88,125,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,167,171,172,176,177,178",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,124,187,245,319,617,3523,5588,7348,7725,7795,7863,7935,8005,8066,8140,8213,8274,8335,8397,8461,8523,8584,8652,8752,8812,8878,8951,9020,9077,9129,9191,9263,9339,9374,9409,9459,9520,9577,9611,9646,9681,9751,9822,9939,10140,10250,10451,10580,10652",
+                        "endLines": "2,3,4,5,12,55,87,124,131,132,133,134,135,136,137,138,139,140,141,142,143,144,145,146,147,148,149,150,151,152,153,154,155,156,157,158,159,160,161,162,163,164,165,166,170,171,175,176,177,178",
+                        "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "119,182,240,314,612,3518,5583,7343,7720,7790,7858,7930,8000,8061,8135,8208,8269,8330,8392,8456,8518,8579,8647,8747,8807,8873,8946,9015,9072,9124,9186,9258,9334,9369,9404,9454,9515,9572,9606,9641,9676,9746,9817,9934,10135,10245,10446,10575,10647,10714"
+                    },
+                    "to": {
+                        "startLines": "36,37,41,43,47,153,196,228,265,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,298,299,300,301,302,303,304,305,306,307,309,317,320,321,326,329,334,336,337",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1345,1414,1680,1811,2019,8136,11042,13107,14867,15244,15314,15382,15454,15524,15585,15659,15732,15793,15854,15916,15980,16042,16103,16171,16271,16331,16397,16470,16539,16596,16648,16922,16994,17070,17105,17140,17190,17251,17308,17342,17377,17472,17947,18168,18285,18552,18845,19112,19308,19380",
+                        "endLines": "36,37,41,43,53,195,227,264,271,272,273,274,275,276,277,278,279,280,281,282,283,284,285,286,287,288,289,290,291,292,293,298,299,300,301,302,303,304,305,306,307,309,317,320,324,326,332,334,336,337",
+                        "endColumns": "68,62,57,73,24,24,24,24,24,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,34,34,49,60,56,33,34,34,69,70,116,12,109,12,128,71,66",
+                        "endOffsets": "1409,1472,1733,1880,2312,11037,13102,14862,15239,15309,15377,15449,15519,15580,15654,15727,15788,15849,15911,15975,16037,16098,16166,16266,16326,16392,16465,16534,16591,16643,16705,16989,17065,17100,17135,17185,17246,17303,17337,17372,17407,17537,18013,18280,18481,18657,19041,19236,19375,19442"
+                    }
+                },
+                {
+                    "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "35,19,6,2,4,49,48,5,3,7,50",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1640,1175,279,55,166,2254,2191,222,111,332,2319",
+                        "endLines": "47,31,6,2,4,49,48,5,3,7,50",
+                        "endColumns": "12,19,52,55,55,64,62,56,54,77,71",
+                        "endOffsets": "2186,1541,327,106,217,2314,2249,274,161,405,2386"
+                    },
+                    "to": {
+                        "startLines": "2,15,310,311,312,313,314,315,316,318,319",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,606,17542,17595,17651,17707,17772,17835,17892,18018,18096",
+                        "endLines": "14,27,310,311,312,313,314,315,316,318,319",
+                        "endColumns": "12,19,52,55,55,64,62,56,54,77,71",
+                        "endOffsets": "601,972,17590,17646,17702,17767,17830,17887,17942,18091,18163"
+                    }
+                },
+                {
+                    "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,9,8,7,10,5,6,3,12,11,2",
+                        "startColumns": "1,1,1,1,1,1,1,1,1,1,1",
+                        "startOffsets": "129,331,288,247,373,166,206,89,460,415,52",
+                        "endColumns": "36,41,42,40,41,39,40,39,42,44,36",
+                        "endOffsets": "164,371,329,286,413,204,245,127,501,458,87"
+                    },
+                    "to": {
+                        "startLines": "29,30,31,32,33,34,35,39,44,45,46",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "1038,1078,1123,1169,1213,1258,1301,1566,1885,1931,1979",
+                        "endColumns": "39,44,45,43,44,42,43,42,45,47,39",
+                        "endOffsets": "1073,1118,1164,1208,1253,1296,1340,1604,1926,1974,2014"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\coordinatorlayout-28.0.0.aar\\3531d3dfda2ab703740299e60ea97a66\\res\\values\\values.xml",
+                    "from": {
+                        "startLines": "2,3,13,102",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,116,724,5935",
+                        "endLines": "2,12,101,104",
+                        "endColumns": "60,24,24,12",
+                        "endOffsets": "111,719,5930,6075"
+                    },
+                    "to": {
+                        "startLines": "28,54,64,338",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "977,2317,2925,19447",
+                        "endLines": "28,63,152,340",
+                        "endColumns": "60,24,24,12",
+                        "endOffsets": "1033,2920,8131,19587"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ta_values-ta.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ta\\values-ta.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-iw_values-iw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-iw\\values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-in_values-in.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-in\\values-in.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-zh-rHK_values-zh-rHK.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-zh-rHK\\values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ja_values-ja.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ja\\values-ja.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ru_values-ru.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ru\\values-ru.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-mk_values-mk.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-mk\\values-mk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-hu_values-hu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-hu\\values-hu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ko_values-ko.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ko\\values-ko.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-zh-rTW_values-zh-rTW.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-zh-rTW\\values-zh-rTW.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ka_values-ka.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ka\\values-ka.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-sl_values-sl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-sl\\values-sl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-en-rIN_values-en-rIN.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-en-rIN\\values-en-rIN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-tl_values-tl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-tl\\values-tl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-hi_values-hi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-hi\\values-hi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-en-rAU_values-en-rAU.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-en-rAU\\values-en-rAU.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-lt\\values-lt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-am_values-am.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-am\\values-am.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-vi_values-vi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-vi\\values-vi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-gl_values-gl.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-gl\\values-gl.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-gu_values-gu.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-gu\\values-gu.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-ca_values-ca.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-ca\\values-ca.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-pt_values-pt.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-pt\\values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-af_values-af.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-af\\values-af.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-is_values-is.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-is\\values-is.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-sw_values-sw.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-sw\\values-sw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-si_values-si.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-si\\values-si.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-pa_values-pa.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-lv_values-lv.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-lv\\values-lv.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-uz_values-uz.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-uz\\values-uz.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\release\\values-fi_values-fi.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\d55665c3f60114fe3f6cf976b86cab4b\\res\\values-fi\\values-fi.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

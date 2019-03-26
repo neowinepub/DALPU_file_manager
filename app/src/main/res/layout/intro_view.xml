@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.sphoto.IntroActivity" >
+
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="22dp"
+        android:layout_height="484dp"
+        android:layout_weight="1"
+        android:text="TextView" />
+
+    <ImageView
+        android:id="@+id/frontImage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="fitXY"
+        android:src="@drawable/neowinepage"
+        tools:ignore="ContentDescription" />
+
+</LinearLayout>

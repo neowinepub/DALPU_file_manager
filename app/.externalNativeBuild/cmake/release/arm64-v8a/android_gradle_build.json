@@ -1,0 +1,81 @@
+
+{
+	"buildFiles" : 
+	[
+		"E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/src/main/jni/CMakeLists.txt"
+	],
+	"cFileExtensions" : [ "c" ],
+	"cleanCommands" : 
+	[
+		"C:\\Users\\SPSHIN_WINDOW10\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\SPSHIN\\001SPSHIN\\Project\\E4NET_UI\\FILEMGR20181115\\Android-File-Manager-master-20181115\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target clean"
+	],
+	"libraries" : 
+	{
+		"NeowineNative-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "NeowineNative",
+			"buildCommand" : "C:\\Users\\SPSHIN_WINDOW10\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\SPSHIN\\001SPSHIN\\Project\\E4NET_UI\\FILEMGR20181115\\Android-File-Manager-master-20181115\\app\\.externalNativeBuild\\cmake\\release\\arm64-v8a --target NeowineNative",
+			"buildType" : "release",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/sysroot -DNeowineNative_EXPORTS  -isystem C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/src/main/jni/NeowineJNI.c",
+					"workingDirectory" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/sysroot -DNeowineNative_EXPORTS  -isystem C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/src/main/jni/neowineDorca.c",
+					"workingDirectory" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/sysroot -DNeowineNative_EXPORTS  -isystem C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/src/main/jni/dorca.c",
+					"workingDirectory" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/sysroot -DNeowineNative_EXPORTS  -isystem C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/src/main/jni/aes128_cipher.c",
+					"workingDirectory" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				},
+				
+				{
+					"flags" : "  --target=aarch64-none-linux-android21 --gcc-toolchain=C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/toolchains/aarch64-linux-android-4.9/prebuilt/windows-x86_64 --sysroot=C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/sysroot -DNeowineNative_EXPORTS  -isystem C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/sysroot/usr/include/aarch64-linux-android -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -Wa,--noexecstack -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC      -c ",
+					"src" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/src/main/jni/aes128_decipher.c",
+					"workingDirectory" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/.externalNativeBuild/cmake/release/arm64-v8a"
+				}
+			],
+			"output" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/build/intermediates/cmake/release/obj/arm64-v8a/libNeowineNative.so",
+			"toolchain" : "3451952685"
+		},
+		"crypto-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "crypto",
+			"buildType" : "release",
+			"output" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/src/main/jni/libcrypto.a",
+			"toolchain" : "3451952685"
+		},
+		"ssl-Release-arm64-v8a" : 
+		{
+			"abi" : "arm64-v8a",
+			"artifactName" : "ssl",
+			"buildType" : "release",
+			"output" : "E:/SPSHIN/001SPSHIN/Project/E4NET_UI/FILEMGR20181115/Android-File-Manager-master-20181115/app/src/main/jni/libssl.a",
+			"toolchain" : "3451952685"
+		}
+	},
+	"toolchains" : 
+	{
+		"3451952685" : 
+		{
+			"cCompilerExecutable" : "C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang.exe",
+			"cppCompilerExecutable" : "C:/Users/SPSHIN_WINDOW10/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/bin/clang++.exe"
+		}
+	}
+}

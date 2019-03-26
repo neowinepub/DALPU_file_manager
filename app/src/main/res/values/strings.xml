@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DALPU File Manager</string>
+    <string name="media_dialog">Media preview</string>
+    <string name="dir_info">Folder Information</string>
+    <string name="manager_act">Phone Management</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main_fragment">MainFragmentActivity</string>
+    <!-- Nav Drawer Menu Items -->
+    <!--<string-array name="e4net">-->
+        <!--<item>   . .       . .       . .       . .       . .    .   </item>-->
+        <!--<item>.+'|=|`+. .+'| |`+. .+'|=|`+. .+'|=|`+. .+'|=|`+.=|`+.</item>-->
+        <!--<item>|  | `+.| |  | |  | |  | `+ | |  | `+.| |.+' |  | `+.|</item>-->
+        <!--<item>|  |=|`.  `++'=|  | |  |  | | |  |=|`.       |  |     </item>-->
+        <!--<item>|  | `.|       |  | |  |  | | |  | `.|       |  |     </item>-->
+        <!--<item>|  |    .      |  | |  |  | | |  |    .      |  |     </item>-->
+        <!--<item>|  | .+'|      |  | |  |  | | |  | .+'|      |  |     </item>-->
+        <!--<item>`+.|=|.+'      |.+' `+.|  |.| `+.|=|.+'      |.+'     </item>-->
+    <!--</string-array>-->
+    <string-array name="nav_drawer_items">
+        <item>Local</item>
+        <item>Home</item>
+        <item>Device</item>
+        <item>Download</item>
+        <item>0</item>
+        <item>External SD</item>
+        <item>Library</item>
+        <item>Photo</item>
+        <item>Movies</item>
+        <item>Music</item>
+        <item>Document</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/ico_menu_downp</item>
+        <item>@drawable/ico_menu_home</item>
+        <item>@drawable/ico_menu_device</item>
+        <item>@drawable/ico_menu_download</item>
+        <item>@drawable/ico_menu_sd</item>
+        <item>@drawable/ico_menu_sd</item>
+        <item>@drawable/ico_menu_downp</item>
+        <item>@drawable/ico_menu_photo</item>
+        <item>@drawable/ico_menu_movies</item>
+        <item>@drawable/ico_menu_music</item>
+        <item>@drawable/ico_menu_doc</item>
+    </array>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="title_dalpu_file_manager">DALPU File Manager</string>
+</resources>

@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    android:background="#FFFFFF"
+    android:id="@+id/navMain_layout">
+    <LinearLayout
+        android:id="@+id/navIcon_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:gravity="left">
+        <ImageView
+            android:id="@+id/navIcon"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_gravity="center"
+            android:padding="5dp"
+            android:src="@drawable/ico_menu_home"/>
+        </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/navIcon2_layout"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal"
+        android:layout_marginLeft="10dp"
+        android:gravity="right">
+        <TextView
+            android:id="@+id/navTitle"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="10"
+            android:text="Location Name"
+            android:textColor="#000000"
+            android:textSize="15sp"
+            android:gravity="center_vertical"/>
+        <ImageView
+            android:id="@+id/navIcon2"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:padding="5dp"
+            android:layout_gravity="center"
+            android:src="@drawable/ico_menu_home"
+            android:visibility="gone"/>
+        </LinearLayout>
+
+</LinearLayout>

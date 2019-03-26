@@ -1,0 +1,7 @@
+---- deleteFile Matches (6 in 3 files) ----
+EmodeActivity.java:                                            mHandler.deleteFile(mFileMag.getCurrentDir() + "/" + mSelectedListItem);
+EmodeActivity.java:                        mHandler.deleteFile(mFileMag.getCurrentDir() + "/" + mSelectedListItem);
+EventHandler.java:    public void deleteFile(String name) {
+SmodeActivity.java:                                            mHandler.deleteFile(mFileMag.getCurrentDir() + "/" + mSelectedListItem);
+SmodeActivity.java:                        mHandler.deleteFile(mFileMag.getCurrentDir() + "/" + mSelectedListItem);
+SmodeActivity.java:            mHandler.deleteFile(m_CurrentFile);

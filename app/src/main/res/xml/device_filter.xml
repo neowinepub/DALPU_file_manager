@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 0x0416 / 0x123A: DORCA3 MOTHER BOARD NUC505-->
+    <usb-device vendor-id="1046" product-id="4666" />
+    <!-- <usb-device vendor-id="1234" product-id="5678" /> -->
+</resources>

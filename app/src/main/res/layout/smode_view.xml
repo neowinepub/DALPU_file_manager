@@ -1,0 +1,301 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="60">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#216be8" />
+
+    <LinearLayout
+        android:id="@+id/smodeTopTitle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        android:background="#216be8"
+        android:gravity="center"
+        android:weightSum="5"
+        android:visibility="gone"
+        tools:ignore="Orientation">
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:visibility="gone"
+            android:src="@drawable/ico_top_sd" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="3dp"
+            android:gravity="center_vertical"
+            android:visibility="gone"
+            android:text="S - Mode"
+            android:textColor="#ffffff"
+            android:textSize="15dp" />
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5">
+
+        <LinearLayout
+            android:id="@+id/smodeMiddletitle"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="#3a84ff"
+            android:orientation="horizontal"
+            android:visibility="visible"
+            android:weightSum="30"
+            tools:ignore="Orientation">
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="6">
+
+                <Button
+                    android:id="@+id/btnSideMenu"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="center"
+                    android:background="@drawable/ico_menu"
+                    android:gravity="center" />
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/smodeTopText"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="18"
+                android:gravity="center"
+                android:text="SHA_READ"
+                android:textColor="#ffffff"
+                android:textSize="25dp" />
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_weight="6"
+                android:gravity="right">
+
+                <Button
+                    android:id="@+id/btnHome"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:layout_gravity="right"
+                    android:background="@drawable/btn_home"
+                    android:gravity="right" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="0dp"
+                android:layout_height="30dp"
+                android:layout_gravity="center"
+                android:layout_marginRight="1dp"
+                android:layout_weight="6"
+                android:background="@drawable/swich_bg"
+                android:visibility="gone">
+
+                <Button
+                    android:id="@+id/btnTopNav1"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="left|center_vertical"
+                    android:layout_weight="1"
+                    android:background="@drawable/swich_btn"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/btnTopNav2"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:text="H"
+                    android:textColor="#999999"
+                    android:visibility="gone" />
+
+                <Button
+                    android:id="@+id/btnTopNav3"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="right|center_vertical"
+                    android:layout_weight="1"
+                    android:background="@android:color/transparent"
+                    android:text="E"
+                    android:textColor="#999999"
+                    android:visibility="gone" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/smodeMiddleWorks"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:background="#3a84ff"
+            android:orientation="horizontal"
+            android:visibility="gone"
+            android:weightSum="2"
+            tools:ignore="Orientation">
+
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/smode_delete"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Delete"
+                android:textColor="@color/white" />
+
+            <View
+                android:layout_width="1px"
+                android:layout_height="match_parent"
+                android:background="#000000" />
+
+            <TextView
+                android:id="@+id/smode_rename"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="center"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="Rename"
+                android:textColor="@color/white" />
+        </LinearLayout>
+    </FrameLayout>
+
+    <LinearLayout
+        android:id="@+id/smodeFileList"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="25"
+        android:background="#FFFFFF"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/smode_path_layout"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/smode_path_label1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:maxLines="1"
+                android:text="PATH : "
+                android:textColor="@color/black" />
+
+            <ImageView
+                android:id="@+id/smode_path_icon1"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/ico_section" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="match_parent"
+            android:layout_height="1px"
+            android:background="#B5B5B5" />
+
+        <TextView
+            android:id="@+id/smode_detail_label1"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2"
+            android:gravity="center"
+            android:textColor="@color/brightRed"
+            android:visibility="gone" />
+
+        <GridView
+            android:id="@+id/grid"
+
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+
+            android:layout_weight="30"
+            android:cacheColorHint="#FFFFFF"
+            android:choiceMode="singleChoice"
+            android:columnWidth="60dp"
+            android:fastScrollEnabled="true"
+            android:listSelector="#FFFFFF"
+            android:numColumns="4"
+            android:smoothScrollbar="true"
+            android:stretchMode="columnWidth"
+            />
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="3px"
+        android:background="#FF0000" />
+
+    <LinearLayout
+        android:id="@+id/smodeCypher"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="20"
+        android:background="#FFFFFF"
+        android:weightSum="3"
+        tools:ignore="Orientation">
+
+        <GridView
+            android:id="@+id/grid_cipher"
+            android:background="#FFFFFF"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="5dp"
+            android:layout_weight="30"
+            android:cacheColorHint="#eaeaea"
+            android:choiceMode="singleChoice"
+            android:columnWidth="60dp"
+            android:fastScrollEnabled="true"
+            android:listSelector="#FFFFFF"
+
+            android:numColumns="4"
+            android:smoothScrollbar="true"
+            android:stretchMode="columnWidth"
+            />
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/emodeBottomMenu"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        android:background="#e5e5e5"
+        android:orientation="horizontal"
+        android:weightSum="5"
+        tools:ignore="Orientation">
+        <TextView
+            android:id="@+id/debuglog"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="#00FFFF"
+            android:text="Hello World!" />
+    </LinearLayout>
+
+</LinearLayout>

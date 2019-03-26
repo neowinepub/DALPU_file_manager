@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/e4net/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/e4net/Documents/neowine/Android-File-Manager-master-20151012-12_chanageUI/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-d349e4ed55ab877ca27a8607bfb612ed4a8a01f2.jar" />
+    </item>
+    <item
+        jar="/Users/e4net/Documents/neowine/Android-File-Manager-master-20151012-12_chanageUI/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/e4net/Documents/neowine/Android-File-Manager-master-20151012-12_chanageUI/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1-b152bddaa1abd310e43cf453ad31dad033b06a3d.jar" />
+    </item>
+    <item
+        jar="/Users/e4net/Documents/neowine/Android-File-Manager-master-20151012-12_chanageUI/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/e4net/Documents/neowine/Android-File-Manager-master-20151012-12_chanageUI/app/build/intermediates/pre-dexed/debug/classes-58b50085f6f14f35d27fb42024ac98710fa40411.jar" />
+    </item>
+    <item
+        jar="/Users/e4net/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/e4net/Documents/neowine/Android-File-Manager-master-20151012-12_chanageUI/app/build/intermediates/pre-dexed/debug/glide-3.7.0-5bc473bfa6a3f4dac0bbba9ed50c0721681804e3.jar" />
+    </item>
+
+</items>

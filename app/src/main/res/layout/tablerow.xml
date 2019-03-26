@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center_horizontal"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:descendantFocusability="blocksDescendants">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:layout_marginTop="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginRight="2dp">
+        <ImageView
+            android:layout_width = "40dp"
+            android:layout_height = "40dp"
+            android:id="@+id/icon"
+            android:src="@drawable/appicon"
+            android:layout_gravity="center"
+
+            />
+        <ImageView
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:id="@+id/enc_dec_icon"
+            android:layout_gravity="bottom|end"
+            android:src="@drawable/ico_enc_256"/>
+    </FrameLayout>
+        <TextView
+            android:id="@+id/name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_marginLeft="2dp"
+            android:layout_marginRight="2dp"
+            android:layout_marginBottom="2dp"
+            android:textSize="10dp"
+            android:lines="2"
+            android:ellipsize="end"
+            android:textColor="#000000"
+            android:text="TEXT"
+            android:background="#FFFFFF"/>
+        <TextView
+            android:id="@+id/filePath"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            />
+
+    </LinearLayout>

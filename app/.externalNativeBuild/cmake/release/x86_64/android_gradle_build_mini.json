@@ -1,0 +1,26 @@
+{
+  "buildFiles": [
+    "E:\\SPSHIN\\001SPSHIN\\Project\\E4NET_UI\\FILEMGR20181115\\Android-File-Manager-master-20181115\\app\\src\\main\\jni\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\SPSHIN_WINDOW10\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\SPSHIN\\001SPSHIN\\Project\\E4NET_UI\\FILEMGR20181115\\Android-File-Manager-master-20181115\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target clean"
+  ],
+  "libraries": {
+    "NeowineNative-Release-x86_64": {
+      "artifactName": "NeowineNative",
+      "buildCommand": "C:\\Users\\SPSHIN_WINDOW10\\AppData\\Local\\Android\\Sdk\\cmake\\3.6.4111459\\bin\\cmake.exe --build E:\\SPSHIN\\001SPSHIN\\Project\\E4NET_UI\\FILEMGR20181115\\Android-File-Manager-master-20181115\\app\\.externalNativeBuild\\cmake\\release\\x86_64 --target NeowineNative",
+      "abi": "x86_64",
+      "output": "E:\\SPSHIN\\001SPSHIN\\Project\\E4NET_UI\\FILEMGR20181115\\Android-File-Manager-master-20181115\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64\\libNeowineNative.so"
+    },
+    "crypto-Release-x86_64": {
+      "artifactName": "crypto",
+      "abi": "x86_64",
+      "output": "E:\\SPSHIN\\001SPSHIN\\Project\\E4NET_UI\\FILEMGR20181115\\Android-File-Manager-master-20181115\\app\\src\\main\\jni\\libcrypto.a"
+    },
+    "ssl-Release-x86_64": {
+      "artifactName": "ssl",
+      "abi": "x86_64",
+      "output": "E:\\SPSHIN\\001SPSHIN\\Project\\E4NET_UI\\FILEMGR20181115\\Android-File-Manager-master-20181115\\app\\src\\main\\jni\\libssl.a"
+    }
+  }
+}

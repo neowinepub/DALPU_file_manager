@@ -1,0 +1,3 @@
+D:/ProgramData/AndroidStudio/filemanager-master/file-manager-20190313encdecusb-published/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/NeowineNative.dir
+D:/ProgramData/AndroidStudio/filemanager-master/file-manager-20190313encdecusb-published/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/edit_cache.dir
+D:/ProgramData/AndroidStudio/filemanager-master/file-manager-20190313encdecusb-published/app/.externalNativeBuild/cmake/release/armeabi-v7a/CMakeFiles/rebuild_cache.dir

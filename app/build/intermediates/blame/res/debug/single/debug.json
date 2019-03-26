@@ -1,0 +1,502 @@
+[
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_pptx_256.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_pptx_256.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_image.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\image.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_drawer_list_item.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\drawer_list_item.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\e03559ed680ff7be1ac82f6680761678\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\e03559ed680ff7be1ac82f6680761678\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rename.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\rename.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_dec.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_dec.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_warning.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\warning.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_movies.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\movies.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_config32.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\config32.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\e03559ed680ff7be1ac82f6680761678\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_menu_home.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_menu_home.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enc_ing_arrow.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\enc_ing_arrow.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_view.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\main_view.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_movies.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\btn_movies.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_html_256.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_html_256.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_menu_doc.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_menu_doc.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\xml_provider_paths.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\xml\\provider_paths.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_neowinepage.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\neowinepage.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_e_mode_bg.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\e_mode_bg.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_music.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\music.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\e03559ed680ff7be1ac82f6680761678\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_input_layout_hybird.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\input_layout_hybird.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_xml32.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\xml32.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_menu.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_menu.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s_mode_photo2.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\s_mode_photo2.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\e03559ed680ff7be1ac82f6680761678\\res\\layout\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_menu_download.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_menu_download.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_row.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\row.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_menu_photo.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_menu_photo.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_xls_256.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_xls_256.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_more.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\more.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_folder_top.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\folder_top.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_smode_view.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\smode_view.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b_btn_home.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\b_btn_home.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\e03559ed680ff7be1ac82f6680761678\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_section.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_section.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_photo.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\btn_photo.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_enc.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_enc.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_shape_round.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\shape_round.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_emode_view.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\emode_view.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_e_mode_bg2.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\e_mode_bg2.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_menu_up.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_menu_up.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_txt_256.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_txt_256.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_btn_top.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\view_btn_top.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_pdf_256.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_pdf_256.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b_btn_refresh.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\b_btn_refresh.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dec_ing.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\dec_ing.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_file_list.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\view_file_list.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b_btn_new.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\b_btn_new.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_music.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\btn_music.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s_mode_doc.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\s_mode_doc.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_menu_movies.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_menu_movies.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\bg.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_home.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\btn_home.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_intro_view.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\intro_view.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s_mode_arrow.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\s_mode_arrow.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_enc_situation.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_enc_situation.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_sd.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_sd.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_menu_device.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_menu_device.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_drawer_shadow.9.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\drawer_shadow.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_menu_music.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_menu_music.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_doc_256.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_doc_256.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\xml_device_filter.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\xml\\device_filter.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_zip_256.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_zip_256.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s_mode_photo.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\s_mode_photo.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\e03559ed680ff7be1ac82f6680761678\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_intro.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\intro.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_info_layout.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\info_layout.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_top_sd.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_top_sd.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_s_mode_doc2.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\s_mode_doc2.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b_btn_sort.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\b_btn_sort.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_frame.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\main_frame.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_folder_256.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\folder_256.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_progressbar_css.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\progressbar_css.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_menu_sd.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_menu_sd.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b_btn_local.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\b_btn_local.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_tablerow.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\tablerow.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\e03559ed680ff7be1ac82f6680761678\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_ppt_256.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_ppt_256.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_btn_document.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\btn_document.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_b_btn_search.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\b_btn_search.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_enc_ing.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\enc_ing.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_enc_256.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_enc_256.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_explorer.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\fragment_explorer.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0.aar\\fceafe65f4272f85d52a4178ac169a99\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_select.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_select.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_swich_btn.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\swich_btn.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dorca.PNG.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\dorca.PNG"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ico_menu_downp.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\ico_menu_downp.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_dec_ing_arrow.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\dec_ing_arrow.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_jar32.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\jar32.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_dlg.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\custom_dlg.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
+        "source": "C:\\Users\\Seung Hyun Shin\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-28.0.0.aar\\e03559ed680ff7be1ac82f6680761678\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_swich_bg.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\swich_bg.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\layout_input_layout.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\layout\\input_layout.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_512.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\icon_512.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_banner.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\banner.png"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_main_shape.xml.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\main_shape.xml"
+    },
+    {
+        "merged": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_appicon.png.flat",
+        "source": "D:\\ProgramData\\AndroidStudio\\filemanager-master\\file-manager-20190313encdecusb-published\\app\\src\\main\\res\\drawable-hdpi\\appicon.png"
+    }
+]

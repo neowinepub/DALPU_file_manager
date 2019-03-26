@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="60">
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#216be8" />
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#3a84ff" />
+
+    <LinearLayout
+        android:id="@+id/middleTitle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="5"
+        android:background="#3a84ff"
+        android:orientation="horizontal"
+        android:weightSum="30"
+        tools:ignore="Orientation">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_weight="6">
+
+            <Button
+                android:id="@+id/btnSideMenu"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:gravity="center"
+                android:layout_gravity="center"
+
+                android:background="@drawable/ico_menu" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="18"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:text="HOME"
+            android:textColor="#ffffff"
+            android:textSize="25dp" />
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="30dp"
+            android:layout_gravity="center"
+            android:layout_marginRight="1dp"
+            android:layout_weight="6"
+            android:visibility="gone"
+            android:background="@drawable/swich_bg">
+
+            <Button
+                android:id="@+id/btnTopNav1"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="left|center_vertical"
+                android:layout_weight="1"
+                android:background="@android:color/transparent"
+                android:visibility="gone"
+                android:text="S"
+                android:textColor="#999999" />
+
+            <Button
+                android:id="@+id/btnTopNav2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:visibility="gone"
+                android:layout_weight="1"
+                android:background="@drawable/swich_btn" />
+
+            <Button
+                android:id="@+id/btnTopNav3"
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="right|center_vertical"
+                android:layout_weight="1"
+                android:visibility="gone"
+                android:background="@android:color/transparent"
+                android:text="E"
+                android:textColor="#999999" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#1c6aec" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#dfdfdf" />
+
+    <LinearLayout
+        android:id="@+id/menuTitle"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="10"
+        android:background="#ffffff"
+        android:orientation="horizontal"
+        android:weightSum="4"
+        tools:ignore="Orientation">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:weightSum="10">
+
+            <Button
+                android:id="@+id/btn_photo"
+                android:layout_width="56dp"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="6"
+                android:background="@drawable/btn_photo"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:text="Photo"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/tv_photo_cnt"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="#6097f3" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:weightSum="10">
+
+            <Button
+                android:id="@+id/btn_movie"
+                android:layout_width="56dp"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="6"
+                android:background="@drawable/btn_movies"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:text="Movie"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/tv_movie_cnt"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="#6097f3" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:weightSum="10">
+
+            <Button
+                android:id="@+id/btn_music"
+                android:layout_width="56dp"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="6"
+                android:background="@drawable/btn_music"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:text="Music"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/tv_music_cnt"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="#6097f3" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_margin="5dp"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:weightSum="10">
+
+            <Button
+                android:id="@+id/btn_doc"
+                android:layout_width="56dp"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="6"
+                android:background="@drawable/btn_document"
+                android:gravity="center" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:text="Document"
+                android:textColor="#000000" />
+
+            <TextView
+                android:id="@+id/tv_doc_cnt"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:layout_gravity="center_horizontal"
+                android:layout_weight="2"
+                android:gravity="center"
+                android:text="0"
+                android:textColor="#6097f3" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#828282" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2px"
+        android:background="#dadada" />
+
+    <LinearLayout
+        android:id="@+id/storageLayout"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="35"
+        android:background="#EFEFEF"
+        android:orientation="vertical"
+        android:weightSum="3"
+        tools:ignore="Orientation">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/main_shape"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:weightSum="2">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="6"
+                android:id="@+id/ll_sdcard">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/ico_sd" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="5"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/main_tv_sd1_lable"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="3"
+                            android:gravity="left"
+                            android:text="SD NAME"
+                            android:textColor="#999999"
+                            android:textSize="12dp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="3">
+
+                        </LinearLayout>
+
+                        <TextView
+                            android:id="@+id/main_tv_sd1_memory"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.5"
+                            android:gravity="center"
+                            android:text="12.52 GB"
+                            android:textColor="#FF0000"
+                            android:textSize="12dp" />
+
+                        <TextView
+                            android:id="@+id/main_tv_sd1_memory_div"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:gravity="center"
+                            android:text=" / "
+                            android:textColor="#999999"
+                            android:textSize="12dp" />
+
+                        <TextView
+                            android:id="@+id/main_tv_sd1_total_memory"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.5"
+                            android:gravity="center"
+                            android:text="23.30 GB"
+                            android:textColor="#999999"
+                            android:textSize="12dp" />
+
+                    </LinearLayout>
+
+                    <ProgressBar
+                        android:id="@+id/main_sd1_progressbar"
+                        style="?android:attr/progressBarStyleHorizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="5dp"
+                        android:layout_marginTop="5dp"
+                        android:progressDrawable="@drawable/progressbar_css"
+                        android:secondaryProgress="0" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#efefef"></View>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="6"
+                android:id="@+id/ll_extcard">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/ico_sd" />
+
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_weight="5"
+                    android:gravity="center"
+                    android:orientation="vertical">
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:orientation="horizontal">
+
+                        <TextView
+                            android:id="@+id/main_tv_sd2_lable"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="3"
+                            android:gravity="left"
+                            android:text="SD NAME"
+                            android:textColor="#999999"
+                            android:textSize="12dp" />
+
+                        <LinearLayout
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight="3" />
+
+                        <TextView
+                            android:id="@+id/main_tv_sd2_memory"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.5"
+                            android:gravity="center"
+                            android:text="12.52 GB"
+                            android:textColor="#FF0000"
+                            android:textSize="12dp" />
+
+                        <TextView
+                            android:id="@+id/main_tv_sd2_memory_div"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="0.5"
+                            android:gravity="center"
+                            android:text=" / "
+                            android:textColor="#999999"
+                            android:textSize="12dp" />
+
+                        <TextView
+                            android:id="@+id/main_tv_sd2_total_memory"
+                            android:layout_width="0dp"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="2.5"
+                            android:gravity="center"
+                            android:text="23.30 GB"
+                            android:textColor="#999999"
+                            android:textSize="12dp" />
+                    </LinearLayout>
+
+                    <ProgressBar
+                        android:id="@+id/main_sd2_progressbar"
+                        style="?android:attr/progressBarStyleHorizontal"
+                        android:layout_width="match_parent"
+                        android:layout_height="5dp"
+                        android:layout_marginTop="5dp"
+                        android:progressDrawable="@drawable/progressbar_css"
+                        android:secondaryProgress="0" />
+                </LinearLayout>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_margin="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/main_shape"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:weightSum="2">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="6"
+                android:id="@+id/ll_encfolder">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/ico_enc" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="5"
+                    android:weightSum="10">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="7"
+                        android:gravity="center_vertical"
+                        android:text="Encrypted Files"
+                        android:textColor="#999999"
+                        android:textSize="12dp"/>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2"
+                        android:gravity="right|center_vertical"
+                        android:text="0"
+                        android:textColor="#FF0000"
+                        android:id="@+id/encrypt_number"/>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:textColor="#999999"
+                        android:text=" EA" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#efefef"></View>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:background="#ffffff"
+                android:orientation="horizontal"
+                android:weightSum="6"
+                android:id="@+id/ll_decfolder">
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="1">
+
+                    <ImageView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:src="@drawable/ico_dec" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight="5"
+                    android:weightSum="10">
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="7"
+                        android:gravity="center_vertical"
+                        android:text="Decrypted Files"
+                        android:textColor="#999999"
+                        android:textSize="12dp"/>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="2"
+                        android:gravity="right|center_vertical"
+                        android:text="0"
+                        android:textColor="#FF0000"
+                        android:id="@+id/decrypt_number"/>
+
+                    <TextView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:gravity="center_vertical"
+                        android:text=" EA"
+                        android:textColor="#999999"/>
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:padding="10dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/banner" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:background="#828282" />
+
+    <LinearLayout
+        android:id="@+id/bottomMenu"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="8"
+        android:background="#e5e5e5"
+        android:orientation="horizontal"
+        android:weightSum="5"
+        tools:ignore="Orientation">
+
+    </LinearLayout>
+
+</LinearLayout>

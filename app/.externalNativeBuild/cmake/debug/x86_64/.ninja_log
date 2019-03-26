@@ -1,0 +1,6 @@
+# ninja log v5
+6	98	0	CMakeFiles/NeowineNative.dir/aes128_cipher.c.o	71809bc21201ab2d
+1	117	0	CMakeFiles/NeowineNative.dir/dorca.c.o	164066d156e690d0
+9	119	0	CMakeFiles/NeowineNative.dir/aes128_decipher.c.o	3322cab700ba059
+3	138	0	CMakeFiles/NeowineNative.dir/NeowineJNI.c.o	b284a5aa61d7e8fb
+13	163	0	CMakeFiles/NeowineNative.dir/neowineDorca.c.o	b099da478d4b9ae3

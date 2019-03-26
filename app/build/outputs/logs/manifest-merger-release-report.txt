@@ -1,0 +1,249 @@
+-- Merging decision tree log ---
+provider#android.support.v4.content.FileProvider
+INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:84:3-92:14
+	android:grantUriPermissions
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:88:4-38
+	android:authorities
+		INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:86:4-51
+	android:exported
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:87:4-28
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:85:4-58
+manifest
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:26:1-123:12
+INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:26:1-123:12
+INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:26:1-123:12
+INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:26:1-123:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\ed8bd27161515f4291cccde84c3fd2e2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\7180b1ca61f27b75f588947063402e6d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6da93942d4bab69f5f7b7d481b68c27f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c8c6f81b1070bb743417d4bc97b8b123\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dd08e0e5f943fd83fe01ff1168b3e1e8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0f6dcbac566e8a62d7466fbaf0cd3c5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\32c2b3f92476454cd73b7a6acb95cc32\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3531d3dfda2ab703740299e60ea97a66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2d90e55695f697500f4aaf1f2d611164\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\eeb081b411177184a2c1303b00da2587\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\146d5741dd0c3eadd1aa1542db91c50d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f1f457693f56f9b708d8442d88a91aa9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\62ec854fec86443c6db3497c6a0383f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d55665c3f60114fe3f6cf976b86cab4b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\240f04234667a215276584db90caff9f\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aeccb0a9e349f6a862e4b4d895e5abef\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\94388298f39c2f76dc438936b9fed508\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4579c1d7aba5194fdd7f2c8531bf4656\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\80e325f387e3cf75839ecbc5184e3c49\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2df0cf1339f6dcc4af44873d49670116\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\65c5e8f32d291318c607da8759a46c90\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\21366b213615346889684c9082835d7c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8a41f2b7417fca211b023c71552e1719\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e4e992ca4d183077d8dc889b6a1a907f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\947ac66790c4b1c893d6bb48088cce59\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:26:1-123:12
+INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:26:1-123:12
+INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:26:1-123:12
+	package
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:27:7-37
+		INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:29:7-34
+		INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:26:11-69
+	android:versionCode
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:28:7-30
+		INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml
+		INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml
+	android:installLocation
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:30:7-37
+application
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:31:5-109:15
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d55665c3f60114fe3f6cf976b86cab4b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d55665c3f60114fe3f6cf976b86cab4b\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\240f04234667a215276584db90caff9f\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\240f04234667a215276584db90caff9f\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d55665c3f60114fe3f6cf976b86cab4b\AndroidManifest.xml:22:18-91
+	android:label
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:32:34-66
+	android:icon
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:32:3-33
+	android:theme
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:33:3-50
+activity#com.neowine.fmanager.IntroView
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:40:3-45:14
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:40:13-38
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:41:4-44:20
+action#android.intent.action.MAIN
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:42:4-56
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:42:12-53
+category#android.intent.category.LAUNCHER
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:43:5-65
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:43:15-62
+activity#com.neowine.fmanager.CustomDialog
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:46:3-47:14
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:46:13-41
+activity#com.neowine.fmanager.Main
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:48:9-69:20
+	android:label
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:49:19-51
+	android:excludeFromRecents
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:51:10-43
+	android:launchMode
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:50:7-42
+	android:taskAffinity
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:52:7-30
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:48:19-39
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:59:4-61:20
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:60:5-78
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:60:13-75
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_DETACHED
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:62:4-64:20
+action#android.hardware.usb.action.USB_DEVICE_DETACHED
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:63:5-78
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:63:13-75
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:66:4-118
+	android:resource
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:66:78-115
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:66:15-77
+meta-data#android.hardware.usb.action.USB_DEVICE_DETACHED
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:67:4-118
+	android:resource
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:67:78-115
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:67:15-77
+activity#com.neowine.fmanager.EmodeActivity
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:71:3-54
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:71:13-42
+activity#com.neowine.fmanager.SmodeActivity
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:72:6-75:14
+	android:hardwareAccelerated
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:73:10-45
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:72:16-45
+activity#com.neowine.fmanager.DirectoryInfo
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:76:6-83:17
+	android:enabled
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:76:46-68
+	android:label
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:77:10-42
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:76:16-45
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:application/manager
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:78:7-82:23
+action#android.intent.action.VIEW
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:79:8-60
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:79:16-57
+data
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:80:8-55
+	android:mimeType
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:80:14-52
+category#android.intent.category.DEFAULT
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:81:8-67
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:81:18-64
+supports-screens
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:110:2-112:38
+	android:largeScreens
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:112:8-35
+	android:smallScreens
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:110:20-47
+	android:normalScreens
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:111:8-36
+uses-sdk
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:113:5-43
+INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:113:5-43
+INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:113:5-43
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\ed8bd27161515f4291cccde84c3fd2e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-v4-28.0.0.aar\ed8bd27161515f4291cccde84c3fd2e2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\7180b1ca61f27b75f588947063402e6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-media-compat-28.0.0.aar\7180b1ca61f27b75f588947063402e6d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6da93942d4bab69f5f7b7d481b68c27f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0.aar\6da93942d4bab69f5f7b7d481b68c27f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c8c6f81b1070bb743417d4bc97b8b123\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0.aar\c8c6f81b1070bb743417d4bc97b8b123\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dd08e0e5f943fd83fe01ff1168b3e1e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0.aar\dd08e0e5f943fd83fe01ff1168b3e1e8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0f6dcbac566e8a62d7466fbaf0cd3c5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\loader-28.0.0.aar\0f6dcbac566e8a62d7466fbaf0cd3c5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\32c2b3f92476454cd73b7a6acb95cc32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0.aar\32c2b3f92476454cd73b7a6acb95cc32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3531d3dfda2ab703740299e60ea97a66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0.aar\3531d3dfda2ab703740299e60ea97a66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2d90e55695f697500f4aaf1f2d611164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0.aar\2d90e55695f697500f4aaf1f2d611164\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\eeb081b411177184a2c1303b00da2587\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0.aar\eeb081b411177184a2c1303b00da2587\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\146d5741dd0c3eadd1aa1542db91c50d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\customview-28.0.0.aar\146d5741dd0c3eadd1aa1542db91c50d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f1f457693f56f9b708d8442d88a91aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0.aar\f1f457693f56f9b708d8442d88a91aa9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\62ec854fec86443c6db3497c6a0383f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0.aar\62ec854fec86443c6db3497c6a0383f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d55665c3f60114fe3f6cf976b86cab4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0.aar\d55665c3f60114fe3f6cf976b86cab4b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\240f04234667a215276584db90caff9f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0.aar\240f04234667a215276584db90caff9f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aeccb0a9e349f6a862e4b4d895e5abef\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\aeccb0a9e349f6a862e4b4d895e5abef\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\94388298f39c2f76dc438936b9fed508\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0.aar\94388298f39c2f76dc438936b9fed508\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4579c1d7aba5194fdd7f2c8531bf4656\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0.aar\4579c1d7aba5194fdd7f2c8531bf4656\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\80e325f387e3cf75839ecbc5184e3c49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\print-28.0.0.aar\80e325f387e3cf75839ecbc5184e3c49\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2df0cf1339f6dcc4af44873d49670116\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0.aar\2df0cf1339f6dcc4af44873d49670116\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\65c5e8f32d291318c607da8759a46c90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0.aar\65c5e8f32d291318c607da8759a46c90\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\21366b213615346889684c9082835d7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\21366b213615346889684c9082835d7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8a41f2b7417fca211b023c71552e1719\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\8a41f2b7417fca211b023c71552e1719\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e4e992ca4d183077d8dc889b6a1a907f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\e4e992ca4d183077d8dc889b6a1a907f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\947ac66790c4b1c893d6bb48088cce59\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Seung Hyun Shin\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\947ac66790c4b1c893d6bb48088cce59\AndroidManifest.xml:20:5-44
+INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:113:5-43
+INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:113:5-43
+	android:maxSdkVersion
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:113:15-41
+	android:targetSdkVersion
+		INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:113:5-43
+		INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:113:5-43
+		INJECTED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:115:5-80
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:115:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:116:2-76
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:116:19-74
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:89:4-91:45
+	android:resource
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:91:5-43
+	android:name
+		ADDED from D:\ProgramData\AndroidStudio\filemanager-master\file-manager-20190313encdecusb-published\app\src\main\AndroidManifest.xml:90:5-55
